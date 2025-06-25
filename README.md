@@ -1,34 +1,17 @@
-ESP32 Smart Door Lock System with Fingerprint and Password
-This is a DIY project for a secure and versatile smart door lock system using the ESP32 microcontroller. The system offers two authentication methods to open the door: a fingerprint sensor and a password via a matrix keypad. This project is built on the Arduino platform with FreeRTOS, enabling smooth and efficient handling of multiple concurrent tasks.
+# ESP32 Fingerprint & Password Door Lock System
 
-Key Features
-Multiple Unlocking Methods:
+This project implements a secure door access control system using an ESP32 microcontroller. It features a dual authentication mechanism, requiring either a password or a registered fingerprint to grant access. The system is managed through a 4x4 keypad and provides feedback to the user via a 16x2 I2C LCD display.
 
-Password: Use a 4x4 matrix keypad to enter a 4-digit password.
+## Features
 
-Fingerprint: Use an optical fingerprint sensor for fast and secure recognition.
+* **Dual Authentication:** Unlock via a 4-digit password or a stored fingerprint.
+* **Persistent Storage:** The password is saved in the ESP32's EEPROM, so it is retained even after a power loss.
+* **User Management:** An administrative "Edit Mode" allows for:
+    * Changing the access password.
+    * Enrolling new fingerprints with a specific ID (0-99).
+    * Deleting existing fingerprints by their ID.
+* **Interactive Display:** A 16x2 LCD screen guides the user through all operations, such as entering a password, enrolling fingerprints, and shows access status (granted or denied).
+* **Security Alarm:** A buzzer will sound an alarm after three consecutive failed access attempts (either by password or fingerprint).
+* **Multitasking:** Utilizes FreeRTOS to handle multiple tasks concurrently (keypad input, fingerprint scanning, and device state management).
 
-Intuitive User Interface:
-
-A 16x2 LCD screen displays instructions, status, and notifications to the user.
-
-A buzzer provides audible feedback for key presses, successful/failed authentications, and alarms.
-
-Administrator Mode:
-
-An admin menu protected by the current password.
-
-Allows the user to change the password, enroll new fingerprints, and delete saved fingerprints.
-
-Security and Durability:
-
-Password Storage: The password is saved to the ESP32's EEPROM, so it is not lost when power is disconnected. The default password is 2018.
-
-Alarm System: The buzzer will sound if the password or fingerprint is entered incorrectly 3 consecutive times.
-
-Electric Lock: Controls a relay to open/close an electric door latch.
-
-Multitasking:
-
-Utilizes the FreeRTOS real-time operating system to manage concurrent tasks such as fingerprint scanning, password entry, and door control, ensuring the system is always responsive.
 ![image](https://github.com/user-attachments/assets/7096d951-4a3f-45a4-98c8-1fe7915fda27)
