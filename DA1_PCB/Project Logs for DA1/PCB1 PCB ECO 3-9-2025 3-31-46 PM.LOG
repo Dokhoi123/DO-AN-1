@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GPIO 2 Pin=LS1-1
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=GPIO 15 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1

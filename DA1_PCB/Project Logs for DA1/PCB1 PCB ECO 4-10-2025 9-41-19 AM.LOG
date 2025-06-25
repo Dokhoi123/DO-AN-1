@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=V+ Pin=RL?-1
+Removed Pin From Net: NetName=GND Pin=RL?-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=5V Pin=RL?-2
+Added Pin To Net: NetName=GND Pin=RL?-3
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=RL?-1
+Added Net: Name=NetP1_1
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1

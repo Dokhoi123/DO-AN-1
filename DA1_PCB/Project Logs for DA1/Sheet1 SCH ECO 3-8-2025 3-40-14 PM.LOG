@@ -1,0 +1,31 @@
+Remove Pin=LS1-1 From Net=GND
+Remove Pin=LS1-2 From Net=GPIO 2
+Remove Pin=P2-1 From Net=5V
+Remove Pin=P2-2 From Net=GND
+Remove Pin=P2-3 From Net=SDA
+Remove Pin=P2-4 From Net=SCL
+Remove Pin=P3-1 From Net=R1
+Remove Pin=P3-2 From Net=R2
+Remove Pin=P3-3 From Net=R3
+Remove Pin=P3-4 From Net=R4
+Remove Pin=P3-5 From Net=C1
+Remove Pin=P3-6 From Net=C2
+Remove Pin=P3-7 From Net=C3
+Remove Pin=P3-8 From Net=C4
+Remove Pin=P4-1 From Net=5V
+Remove Pin=P4-2 From Net=TX
+Remove Pin=P4-3 From Net=RX
+Remove Pin=P4-4 From Net=GND
+Remove Pin=P?-1 From Net=NetLabel30
+Remove Pin=P?-2 From Net=NetLabel31
+Remove Pin=SW1-1 From Net=GPIO 15
+Remove Pin=SW1-4 From Net=GND
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=ESP32 NewDesignator=*
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED?
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED?
+Change Component Designator: OldDesignator=R3 NewDesignator=R?
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Component Designator: OldDesignator=R5 NewDesignator=R?
+Change Component Designator: OldDesignator=RL1 NewDesignator=RL?

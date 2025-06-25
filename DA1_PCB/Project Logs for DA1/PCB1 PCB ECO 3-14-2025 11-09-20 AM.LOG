@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GPIO 15 Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Member From Class: ClassName=Sheet1 Member=P?
+Removed Member From Class: ClassName=Sheet1 Member=SW1
+Change Component Comment : Designator=P2 Old Comment=61300411121 New Comment=LCD 16x2 I2C
+Change Component Comment : Designator=P4 Old Comment=61300811121 New Comment=C?M BI?N VÂN TAY
+Change Component Comment : Designator=P3 Old Comment=61300811121 New Comment=KEYPAD 4x4
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1

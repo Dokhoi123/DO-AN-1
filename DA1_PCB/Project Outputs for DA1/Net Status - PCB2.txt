@@ -1,0 +1,36 @@
+Net Status Report
+Filename     : D:\DA1\DA1\PCB2.PcbDoc
+Date         : 4/11/2025
+Time         : 9:40:46 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    5V, Signal Layers Only, 14972.032mils
+    C1, Signal Layers Only, 845mils
+    C2, Signal Layers Only, 845mils
+    C3, Signal Layers Only, 845mils
+    C4, Signal Layers Only, 836.924mils
+    GND, Signal Layers Only, 17149.935mils
+    GPIO 15, Signal Layers Only, 0mils
+    GPIO 2, Signal Layers Only, 1062.604mils
+    IN, Signal Layers Only, 347.132mils
+    NetD1_1, Signal Layers Only, 1902.668mils
+    NetJ?_1, Signal Layers Only, 734.707mils
+    NetJ?_2, Signal Layers Only, 735.913mils
+    NetLED?_1, Signal Layers Only, 181.213mils
+    NetLED?_2, Signal Layers Only, 195mils
+    NetLS1_2, Signal Layers Only, 622.282mils
+    NetP1_2, Signal Layers Only, 897.426mils
+    NetQ1_2, Signal Layers Only, 230.355mils
+    NetQ?_2, Signal Layers Only, 294.35mils
+    NetR1_1, Signal Layers Only, 1471.54mils
+    R1, Signal Layers Only, 845mils
+    R2, Signal Layers Only, 845mils
+    R3, Signal Layers Only, 845mils
+    R4, Signal Layers Only, 845mils
+    RX, Signal Layers Only, 1230.529mils
+    SCL, Signal Layers Only, 2127.603mils
+    SDA, Signal Layers Only, 1518.903mils
+    TX, Signal Layers Only, 1399.524mils
+    V+, Signal Layers Only, 5716.135mils
+count : 28

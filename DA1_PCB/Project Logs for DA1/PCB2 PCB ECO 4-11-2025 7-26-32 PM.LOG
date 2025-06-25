@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=P1 Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=P2 Old Footprint=61300411121 New Footprint=61300411121
+Change Component Footprint: Designator=P3 Old Footprint=61300811121 New Footprint=61300811121
+Change Component Footprint: Designator=P4 Old Footprint=61300811121 New Footprint=61300811121
+Change Component Footprint: Designator=C2 Old Footprint=FP-ECA-2WHG010-MFG New Footprint=FP-ECA-2WHG010-MFG
+Added Pin To Net: NetName=5V Pin=LS1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=5V Pin=P2-2
+Added Pin To Net: NetName=SDA Pin=P2-3
+Added Pin To Net: NetName=SCL Pin=P2-4
+Added Pin To Net: NetName=R1 Pin=P3-1
+Added Pin To Net: NetName=R2 Pin=P3-2
+Added Pin To Net: NetName=R3 Pin=P3-3
+Added Pin To Net: NetName=R4 Pin=P3-4
+Added Pin To Net: NetName=C1 Pin=P3-5
+Added Pin To Net: NetName=C2 Pin=P3-6
+Added Pin To Net: NetName=C3 Pin=P3-7
+Added Pin To Net: NetName=C4 Pin=P3-8
+Added Pin To Net: NetName=5V Pin=P4-1
+Added Pin To Net: NetName=RX Pin=P4-2
+Added Pin To Net: NetName=TX Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1

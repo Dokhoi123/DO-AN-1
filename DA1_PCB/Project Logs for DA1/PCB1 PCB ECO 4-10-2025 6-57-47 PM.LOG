@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R1 Old Comment=1k New Comment=1.6k
+Change Component Comment : Designator=R2 Old Comment=1k New Comment=4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1

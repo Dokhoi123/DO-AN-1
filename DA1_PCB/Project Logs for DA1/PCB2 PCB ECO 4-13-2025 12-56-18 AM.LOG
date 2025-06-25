@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=*-18
+Removed Pin From Net: NetName=V+ Pin=PS?-3
+Removed Pin From Net: NetName=GND Pin=PS?-4
+Added Pin To Net: NetName=GND Pin=*-38
+Added Pin To Net: NetName=GND Pin=PS?-3
+Added Pin To Net: NetName=V+ Pin=PS?-4
+Added Member To Class: ClassName=Sheet1 Member=Component * ESP32 DEV KIT
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res1
